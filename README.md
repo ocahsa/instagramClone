@@ -54,4 +54,4 @@ Michael Eng - [LinkedIn](https://www.linkedin.com/in/m5-design/)
 
 Project Repo Link: [https://github.com/ocahsa/instagramClone](https://github.com/ocahsa/instagramClone)
 
-Project Link: [https://kilogram-acorn-seeded.herokuapp.com/](https://inmanjlai-kilogram.herokuapp.com/)
+Project Link: [https://inmanjlai-kilogram.herokuapp.com/](https://inmanjlai-kilogram.herokuapp.com/)
