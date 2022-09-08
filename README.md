@@ -52,6 +52,6 @@ Basel Hassan - [LinkedIn](https://www.linkedin.com/in/basel-hassan/)
 
 Michael Eng - [LinkedIn](https://www.linkedin.com/in/m5-design/)
 
-Project Repo Link: [https://github.com/pawan087/instagramClone](https://github.com/pawan087/instagramClone)
+Project Repo Link: [https://github.com/ocahsa/instagramClone](https://github.com/ocahsa/instagramClone)
 
-Project Link: [https://kilogram-acorn-seeded.herokuapp.com/](https://kilogram-acorn-seeded.herokuapp.com/)
+Project Link: [https://kilogram-acorn-seeded.herokuapp.com/](https://inmanjlai-kilogram.herokuapp.com/)
